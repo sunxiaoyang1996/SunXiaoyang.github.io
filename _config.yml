@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoyagn Sun"
-  avatar           : (../images/photo4.png)
+  avatar           : "https://github.com/sunxiaoyang1996/sunxiaoyang.github.io/blob/master/images/photo4.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :

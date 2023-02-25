@@ -14,4 +14,4 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](xiaoyangsun@qq.com) / [Github](https://github.com/sunxiaoyang1996) / [Wechat](../images/photo.jpg) / [CSDN](https://baidu.com)
+[Email](xiaoyangsun@qq.com) 

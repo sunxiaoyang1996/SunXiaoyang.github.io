@@ -13,3 +13,5 @@ I am currently pursuing the Ph.D degree in the State Key Laboratory of Synthetic
 
 I am very fortunate to be advised by [Prof. PingZhou](http://faculty.neu.edu.cn/zhouping/) of the State Key Laboratory of Synthetical Automation for Process Industries from Northeasterh University.
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](xiaoyangsun@qq.com) / [Github](https://github.com/sunxiaoyang1996) /  [CSDN](https://blog.csdn.net/manqianfu9364?type=blog)

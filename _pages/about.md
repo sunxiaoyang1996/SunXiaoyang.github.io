@@ -13,6 +13,8 @@ I am currently pursuing the Ph.D degree in the State Key Laboratory of Synthetic
 
 I am very fortunate to be advised by [Prof. PingZhou](http://faculty.neu.edu.cn/zhouping/) of the State Key Laboratory of Synthetical Automation for Process Industries from Northeasterh University.
 
+You can find my undergraduate CV here: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). You can find my graduate CV here: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 2015-2019年，我在江苏科技大学自动化专业学习，以专业综合排名第一的成绩获得保送资格，并获得东北大学校长奖学金。
 
 我目前在流程工业综合自动化国家重点实验室攻读博士学位。我的研究兴趣包括模型预测控制、事件触发控制、强化学习。

@@ -19,8 +19,11 @@ You can find my undergraduate CV here: [Xiaoyang's Curriculum Vitae](../assets/C
 
 2019年至今，在流程工业综合自动化国家重点实验室攻读博士学位，我的研究领域主要有模型预测控制、事件触发控制、强化学习、深度学习等。
 
-在IEEE Trans. Control Syst. Technol., Journal of Process Control, 以及《中国科学：信息科学》公认的国际控制期刊发表论文3篇, 申请专利3项，软件著作权1项。
+在IEEE Trans. Control Syst. Technol., Journal of Process Control, 以及《中国科学：信息科学》公认的国际控制期刊共发表论文3篇, 在International Conference on Industrial Artificial  Intelligence (IAI 2020)发表长摘要一篇，申请专利3项，软件著作权1项。
+
+参与国家工信部重点项目--基于工业互联网平台的流程行生产线数字孪生系统。本项目中，基于工业互联网平台的微服务架构设计方案，独自开发了一套高炉炼铁运行优化控制仿真系统，主要包括模型算法，Harbor,Rancher,Nodered，MySQL数据库等系统后端模块的开发以及同前段显示页面的协同设计。同时参与国家自然科学基金重大课题项目--城市污水处理过程运行优化控制。本项目中共发表控制领域公认期SCI期刊2篇。
 
 我的导师是[周平教授](http://faculty.neu.edu.cn/zhouping/) 东北大学流程工业综合自动化国家重点实验室 教授 博士生导师。
 
-[Email](“xiaoyangsun@qq.com”) / [Github](https://github.com/sunxiaoyang1996) /  [CSDN](https://blog.csdn.net/manqianfu9364?type=blog)
+这是我本科生期间的个人简历: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 这是我研究生期间的个人简历: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+[Github](https://github.com/sunxiaoyang1996) /  [CSDN](https://blog.csdn.net/manqianfu9364?type=blog)

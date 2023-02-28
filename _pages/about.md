@@ -19,6 +19,8 @@ You can find my undergraduate CV here: [Xiaoyang's Curriculum Vitae](../assets/C
 
 2019年至今，在流程工业综合自动化国家重点实验室攻读博士学位，我的研究领域主要有模型预测控制、事件触发控制、强化学习、深度学习等。
 
+在IEEE Trans. Control Syst. Technol., Journal of Process Control, 以及《中国科学：信息科学》公认的国际控制期刊发表论文3篇, 申请专利3项，软件著作权1项。
+
 我的导师是[周平教授](http://faculty.neu.edu.cn/zhouping/) 东北大学流程工业综合自动化国家重点实验室 教授 博士生导师。
 
 [Email](“xiaoyangsun@qq.com”) / [Github](https://github.com/sunxiaoyang1996) /  [CSDN](https://blog.csdn.net/manqianfu9364?type=blog)

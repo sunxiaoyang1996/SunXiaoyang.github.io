@@ -13,9 +13,9 @@ I am currently pursuing the Ph.D degree in the State Key Laboratory of Synthetic
 
 I am very fortunate to be advised by [Prof. PingZhou](http://faculty.neu.edu.cn/zhouping/) of the State Key Laboratory of Synthetical Automation for Process Industries from Northeasterh University.
 
-You can find my undergraduate CV here: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). You can find my graduate CV here: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my undergraduate CV here: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 
 
-2015-2019年，就读于江苏科技大学自动化专业，后保送至东北大学，并获得东北大学校长奖学金。
+2015-2019年，就读于江苏科技大学自动化专业，后以专业第一的资格保送至东北大学，并获得东北大学校长奖学金。
 
 2019年至今，在流程工业综合自动化国家重点实验室攻读博士学位，我的研究领域主要有模型预测控制、事件触发控制、强化学习、深度学习等。
 
@@ -25,5 +25,5 @@ You can find my undergraduate CV here: [Xiaoyang's Curriculum Vitae](../assets/C
 
 我的导师是[周平教授](http://faculty.neu.edu.cn/zhouping/) 东北大学流程工业综合自动化国家重点实验室 教授 博士生导师。在此感谢周老师提供的优越的科研平台，周老师严谨的科研态度以及对学生细致的关爱，是我成长的基石也是我学习的榜样！
 
-这是我本科生期间的个人简历: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 这是我研究生期间的个人简历: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+这是我本科生期间的个人简历: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 [Github](https://github.com/sunxiaoyang1996) /  [CSDN](https://blog.csdn.net/manqianfu9364?type=blog)

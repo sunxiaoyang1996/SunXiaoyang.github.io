@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello world! 科学上网会快一点，嘿嘿"
+title: "Hello world! 科学上网会快一点，右上角有下拉框，嘿嘿"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

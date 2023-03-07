@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello world!"
+title: "Hello world! 科学上网会快一点，嘿嘿"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,9 @@ redirect_from:
 在IEEE Trans. Control Syst. Technol., Journal of Process Control, 以及《中国科学：信息科学》公认的国际控制期刊共发表论文3篇, 在International Conference on Industrial Artificial  Intelligence (IAI 2020)会议中发表长摘要一篇，申请专利3项，软件著作权1项。担任控制工程、控制理论与应用、IEEE TASE、Automatica等期刊的审稿人。
 
 参与国家工信部重点项目--基于工业互联网平台的流程行生产线数字孪生系统。本项目中，基于工业互联网平台的微服务架构设计方案，独自开发了一套高炉炼铁运行优化控制仿真系统，主要包括模型算法, Harbor, Rancher, Nodered, MySQL数据库等系统后端模块的开发以及同前段显示页面的协同设计，所开发软件平台通过中国电子技术标准化研究院的第三方平台验证，该项目于2022年4月通过验收，考评优秀。
+
 同时参与国家自然科学基金重大课题项目--城市污水处理过程运行优化控制，正在开发一套软件平台。
+
 协助老师撰写国家自然科学基金、科技部重点研发项目的申报书，并获得立项通过。
 
 我的导师是[周平教授](http://faculty.neu.edu.cn/zhouping/) 东北大学流程工业综合自动化国家重点实验室 教授 博士生导师。在此感谢周老师提供的优越的科研平台，周老师严谨的科研态度以及对学生细致的关爱，是我成长的基石也是我学习的榜样！

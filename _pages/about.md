@@ -9,7 +9,7 @@ redirect_from:
 ---
 2015-2019年，就读于江苏科技大学自动化专业，后以专业第一的资格保送至东北大学，并获得东北大学校长奖学金，四年校一等奖学金等。
 
-2019年至今，在流程工业综合自动化国家重点实验室攻读博士学位，我的研究领域主要有模型预测控制、事件触发控制、强化学习、深度学习等。
+2019年至今，在流程工业综合自动化<国家重点实验室>攻读博士学位，我的研究领域主要有模型预测控制、事件触发控制、强化学习、深度学习等。
 
 在IEEE Trans. Control Syst. Technol., Journal of Process Control, 以及《中国科学：信息科学》公认的国际控制期刊共发表论文3篇, 在International Conference on Industrial Artificial  Intelligence (IAI 2020)会议中发表长摘要一篇，申请专利3项，软件著作权1项。担任控制工程、控制理论与应用、IEEE TASE、Automatica等期刊的审稿人。
 

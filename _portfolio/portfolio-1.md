@@ -2,7 +2,8 @@
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/haebin1.png'>"
 collection: portfolio
-
+---
+---
 title: "Portfolio item number 2"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/iai2023.png'>"
 collection: portfolio

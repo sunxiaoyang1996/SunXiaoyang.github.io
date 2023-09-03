@@ -1,6 +1,6 @@
  ---
 title: "个人汇报1"
-excerpt: "哈工程学术论坛汇报<br/><img src='/images/haerbin1.png'>"
+excerpt: "<br/><img src='/images/haerbin1.png'>"
 collection: portfolio
 ---
 

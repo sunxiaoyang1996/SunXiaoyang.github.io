@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "学术会议1"
+excerpt: "2023年中国自动化学会港澳地区博士学术交流会<br/><img src='/images/herbin2.png'>"
 collection: portfolio
 ---
 

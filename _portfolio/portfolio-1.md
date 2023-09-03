@@ -1,4 +1,4 @@
- ---
+---
 title: "个人汇报1"
 excerpt: "<br/><img src='/images/haerbin1.png'>"
 collection: portfolio

@@ -30,7 +30,7 @@ redirect_from:
 
 这是我本科生期间的个人简历: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-这是我博士生期间的个人简历: [Xiaoyang's Curriculum VitaeDoc](../assets/Curriculum_VitaeDoc.pdf).
+这是我博士生期间的个人简历: [Xiaoyang's Curriculum Vitae](../assets/Curriculum_VitaeDoc.pdf).
 
 [Github](https://github.com/sunxiaoyang1996) /  [CSDN](https://blog.csdn.net/manqianfu9364?type=blog)
 

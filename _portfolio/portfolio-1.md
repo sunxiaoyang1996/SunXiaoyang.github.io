@@ -1,6 +1,6 @@
 ---
 title: "个人汇报 1"
-excerpt: "基于误差神经网络补偿的增强模型预测控制 <br/><img src='/images/haerbin1.png'>"
+excerpt: "基于误差神经网络补偿的增强模型预测控制<br/><img src='/images/haerbin1.png'>"
 collection: portfolio
 ---
 

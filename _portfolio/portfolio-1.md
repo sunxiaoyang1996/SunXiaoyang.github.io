@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "<br/><img src='/images/haerbin1.png'>"
+title: "给人汇报 1"
+excerpt: "基于误差神经网络补偿的增强模型预测控制 <br/><img src='/images/haerbin1.png'>"
 collection: portfolio
 ---
 

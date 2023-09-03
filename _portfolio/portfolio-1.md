@@ -1,6 +1,6 @@
----
+ ---
 title: "个人汇报1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/haebin1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/haerbin1.png'>"
 collection: portfolio
 ---
 

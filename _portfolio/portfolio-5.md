@@ -4,7 +4,7 @@ excerpt: "第35界中国控制与决策会议 中国 宜昌<br/><img src='/image
 collection: portfolio
 ---
 
-|  表头   | excerpt: "第35界中国控制与决策会议 中国 宜昌<br/><img src='/images/yichang1.png'>"  |
+|  表头   | <img src='/images/yichang1.png'> |
 |  ----  | ----  |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |

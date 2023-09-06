@@ -1,12 +1,10 @@
 ---
 title: "学术会议2"
 excerpt: "第35界中国控制与决策会议 中国 宜昌<br/><img src='/images/yichang1.png'>"
-excerpt: "第35界中国控制与决策会议 中国 宜昌<br/><img src='/images/yichang1.png'>"
-excerpt: "第35界中国控制与决策会议 中国 宜昌<br/><img src='/images/yichang1.png'>"
 collection: portfolio
 ---
 
-|  表头   | 表头  |
+|  表头   | excerpt: "第35界中国控制与决策会议 中国 宜昌<br/><img src='/images/yichang1.png'>"  |
 |  ----  | ----  |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |

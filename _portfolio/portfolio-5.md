@@ -1,7 +1,6 @@
 ---
-title: "学术会议2"
+title: "学科竞赛1"
 excerpt: "|  2018“TI”杯江苏省电赛  |    照片  |
-|  ----  | ----  |
 | 手势1  |  <img src='/images/diansai1.png'> |
 | 手势2 |  <img src='/images/diansai2.png'> |
 | 运送照片  |  <img src='/images/diansai3.png'> |"
